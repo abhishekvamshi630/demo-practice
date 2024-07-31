@@ -1,2 +1,2 @@
 # demo-practice
-first Git $ Github Practice
+first Git $ Github Practice.
